@@ -102,7 +102,23 @@ npm run preview
 
 # Subida del proyecto a la nube por medio de GIT
 
+1. Creamos un repositorio de GIT
 
+```sh
+git init
+```
+
+2. Marco los archivos para ser guardados dentro del repositorio
+
+```sh
+git add .
+```
+
+3. Creo el commit (guardo los archivos marcados dentro del repo)
+
+```sh
+git commit -m "Proyecto listo para subir a netlify"
+```
 
 
 
