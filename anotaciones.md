@@ -120,6 +120,16 @@ git add .
 git commit -m "Proyecto listo para subir a netlify"
 ```
 
+4. Subir al repo remoto 
+
+```sh
+git remote add origin https://github.com/mlapeducacionit/react-router.git
+git push -u origin main
+```
+
+5. Es vincular nuestra cuenta de GitHub a netlify
+
+
 
 
 
